@@ -1,0 +1,3 @@
+[submodule "lib/sublib"]
+	path = lib/sublib
+	url = https://github.com/Julien-desoutter/ProjetSubModule.git
